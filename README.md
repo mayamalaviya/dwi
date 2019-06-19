@@ -1,5 +1,5 @@
 
-## Direct Wines Coding Challenge
+## Direct Wine Coding Challenge
 
 ### This is a small two-part React application that 
 * consumes an API and displays requested data, and
