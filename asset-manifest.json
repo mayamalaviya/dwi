@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.4d8a34ad.chunk.css",
-    "main.js": "/myapp/static/js/main.194ffb7f.chunk.js",
-    "main.js.map": "/myapp/static/js/main.194ffb7f.chunk.js.map",
-    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
-    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
-    "static/css/2.a353ac1c.chunk.css": "/myapp/static/css/2.a353ac1c.chunk.css",
-    "static/js/2.a1d8c350.chunk.js": "/myapp/static/js/2.a1d8c350.chunk.js",
-    "static/js/2.a1d8c350.chunk.js.map": "/myapp/static/js/2.a1d8c350.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.644b5b8f831fbb936035e2c48fedd205.js": "/myapp/precache-manifest.644b5b8f831fbb936035e2c48fedd205.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/2.a353ac1c.chunk.css.map": "/myapp/static/css/2.a353ac1c.chunk.css.map",
-    "static/css/main.4d8a34ad.chunk.css.map": "/myapp/static/css/main.4d8a34ad.chunk.css.map",
-    "static/media/bootstrap.css": "/myapp/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/dwi/static/css/main.4d8a34ad.chunk.css",
+    "main.js": "/dwi/static/js/main.9f8e7530.chunk.js",
+    "main.js.map": "/dwi/static/js/main.9f8e7530.chunk.js.map",
+    "runtime~main.js": "/dwi/static/js/runtime~main.8624610f.js",
+    "runtime~main.js.map": "/dwi/static/js/runtime~main.8624610f.js.map",
+    "static/css/2.5098584e.chunk.css": "/dwi/static/css/2.5098584e.chunk.css",
+    "static/js/2.a1d8c350.chunk.js": "/dwi/static/js/2.a1d8c350.chunk.js",
+    "static/js/2.a1d8c350.chunk.js.map": "/dwi/static/js/2.a1d8c350.chunk.js.map",
+    "index.html": "/dwi/index.html",
+    "precache-manifest.e7d4504de2dfa05e3bcf54881baa655b.js": "/dwi/precache-manifest.e7d4504de2dfa05e3bcf54881baa655b.js",
+    "service-worker.js": "/dwi/service-worker.js",
+    "static/css/2.5098584e.chunk.css.map": "/dwi/static/css/2.5098584e.chunk.css.map",
+    "static/css/main.4d8a34ad.chunk.css.map": "/dwi/static/css/main.4d8a34ad.chunk.css.map",
+    "static/media/bootstrap.css": "/dwi/static/media/glyphicons-halflings-regular.fa277232.woff"
   }
 }
